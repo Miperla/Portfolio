@@ -1,4 +1,4 @@
-My portfolio showcases my best work, highlighting my skills, experiences, and achievements. It typically includes case studies, projects, and reports demonstrating my ability to collect, organize, analyze, and communicate meaningfully with complex data sets.
+My portfolio is a testament to my expertise in data analysis, showcasing a selection of my finest work. It highlights my skills, experiences, and achievements through compelling case studies, detailed projects, and insightful reports. Each entry demonstrates my ability to collect, organize, analyze, and effectively communicate complex data sets, transforming raw information into actionable insights.
 -----
 <img width="458" alt="Screenshot 2022-11-24 122641" src="https://github.com/Miperla/Portfolio/assets/114882426/03e5a4d6-685d-4b6e-8c1b-3474292e7b27">
 
